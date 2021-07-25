@@ -19,7 +19,7 @@ We have used	convolutional	neural	networks	(CNN)	to	classify	the	traffic	signs	a
 based	segmentation	to	extract/crop	signs	from	images.
 We deployed the model on web using flask,  Html/css and java script .
 ## Demo
-
+Ig
 <img src="https://user-images.githubusercontent.com/63184114/126889551-f89d3ea8-4656-4985-8b10-c1f36717b553.png" width="30%">.
   
 ## Documentation
@@ -33,7 +33,7 @@ human	eye.	Traffic	signs	in	the	United	States	of	America are	of	3	main	colors:	R
 and	 Yellow.	 Other	 colors	 like	 orange	 and	 blue	 are	 also	 used.	 In	 our	 approach	 we	
 concentrate	on	Red,	White,	and	Yellow	traffic	signs. 
 
-We croped the image to the area of interest where the focusis only on the signs.
+We cropped the image to the area of interest where the focus is only on the signs.
 Once	 we	 have	 refined the set	 of	 areas	 of	 interest, we	 use	 the	 convolutional	 neural	
 network	which	we	are	going	to	build	in	the	next	step	to	predict	the	type	of	this	sign	(or	if	
 it	is	not	a	sign).	
