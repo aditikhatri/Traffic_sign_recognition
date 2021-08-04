@@ -19,7 +19,6 @@ We have used	convolutional	neural	networks	(CNN)	to	classify	the	traffic	signs	a
 based	segmentation	to	extract/crop	signs	from	images.
 We deployed the model on web using flask,  Html/css and java script .
 ## Demo
-Ig
 <img src="https://user-images.githubusercontent.com/63184114/126889551-f89d3ea8-4656-4985-8b10-c1f36717b553.png" width="30%">.
   
 ## Documentation
